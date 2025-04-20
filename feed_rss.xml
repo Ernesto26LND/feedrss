@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://ernestorodriguezrodriguez.github.io/feed_rss.xml" rel="self" type="application/rss+xml" />
+  <title>Tech News</title>
+  <link>https://www.technews.com</link>
+  <description>Las últimas novedades tecnológicas</description>
+
+  <item>
+    <title>Descubren batería que se carga en 60 segundos</title>
+    <link>https://www.technews.com/bateria-60s</link>
+    <guid>https://www.technews.com/bateria-60s</guid>
+    <description>Una nueva tecnología promete cargar dispositivos móviles completamente en tan solo un minuto.</description>
+    <pubDate>Fri, 18 Apr 2025 08:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Lanzan auriculares que traducen en tiempo real</title>
+    <link>https://www.technews.com/auriculares-traduccion</link>
+    <guid>https://www.technews.com/auriculares-traduccion</guid>
+    <description>Los nuevos auriculares inteligentes permiten mantener conversaciones fluidas entre distintos idiomas.</description>
+    <pubDate>Fri, 18 Apr 2025 13:15:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Se presenta holograma portátil con control táctil</title>
+    <link>https://www.technews.com/holograma-portatil</link>
+    <guid>https://www.technews.com/holograma-portatil</guid>
+    <description>La nueva pantalla holográfica permite controlar funciones mediante gestos sin necesidad de contacto físico.</description>
+    <pubDate>Sat, 19 Apr 2025 11:45:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
